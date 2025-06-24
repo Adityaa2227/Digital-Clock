@@ -6,7 +6,7 @@ A simple and elegant Digital Clock web application built with HTML, CSS, and Jav
 
 ## 🚀 Live Demo
 
-[Try the Digital Clock Live](#) <!-- Replace # with your live demo link if available -->
+[Try the Digital Clock Live](https://adityaa2227.github.io/Digital-Clock/) <!-- Replace # with your live demo link if available -->
 
 ---
 
