@@ -49,7 +49,7 @@ A simple and elegant Digital Clock web application built with HTML, CSS, and Jav
 
 1. **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Adityaa2227/Digital-Clock
     ```
 2. **Navigate into the project folder:**
     ```bash
@@ -84,4 +84,4 @@ This project is open-source and available under the MIT License.
 
 ## 🙋‍♂️ Author
 
-Made with ❤️ by [Your Name] <!-- Replace with your name or GitHub profile -->
+Made with ❤️ by Aditya <!-- Replace with your name or GitHub profile -->
